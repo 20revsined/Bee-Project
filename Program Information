@@ -1,0 +1,10 @@
+This project takes in 3 different txt files, and returns the number of moves that it took for 15 bees to travel to a beehive.
+The beehive is a set of 15 open units in a 3 dimensional plane.
+The program uses a custom algorithm to figure out the number of moves it takes for the bees to reach the beehive.
+Each txt file contains the size of the beehive, the starting coordinates of the bees, and the location of the beehive.
+The output of the program displays the starting locations of the bees, the location of the beehive, the number of moves it took for each
+bee to reach the hive, and the total number of moves that it took for all 15 bees to reach the hive.
+
+***YOU ARE NOT ALLOWED TO USE THIS PROGRAM WITHOUT PERMISSION FROM THE DEVELOPERS!***
+
+To request permission, please email the developers at githubuser7201@gmail.com, and please describe why you want to use this program.
